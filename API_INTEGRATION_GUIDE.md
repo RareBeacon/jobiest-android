@@ -3,7 +3,7 @@
 ## Overview
 The Jobiest Native Android Client communicates with the backend via two HTTPS channels:
 1. **Supabase Auth API** (`https://cbxloutahmalorumaihc.supabase.co/auth/v1/`) for identity and session management using the safe public anon key.
-2. **Jobiest REST API Gateway** (`https://www.jobiest.ai/api/`) for business logic, applications, AI tools, job discovery, and payments, authenticated via `Authorization: Bearer <access_token>`.
+2. **Jobiest REST API Gateway** (`https://jobiest.com/api/`) for business logic, applications, AI tools, job discovery, and payments, authenticated via `Authorization: Bearer <access_token>`.
 
 ---
 
@@ -51,7 +51,7 @@ The Jobiest Native Android Client communicates with the backend via two HTTPS ch
 
 ---
 
-## 2. Jobiest Core REST Endpoints (`https://www.jobiest.ai/api/`)
+## 2. Jobiest Core REST Endpoints (`https://jobiest.com/api/`)
 
 All requests require:
 ```http
@@ -119,6 +119,6 @@ Content-Type: application/json
   {
     "plan": "PREMIUM",
     "provider": "flutterwave",
-    "redirectUrl": "https://www.jobiest.ai/billing/success"
+    "redirectUrl": "https://jobiest.com/billing/success"
   }
   ```

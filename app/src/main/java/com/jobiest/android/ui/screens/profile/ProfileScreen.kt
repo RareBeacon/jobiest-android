@@ -216,7 +216,7 @@ fun ProfileScreen(
                         title = "Support & Help",
                         subtitle = "Open Jobiest support portal",
                         onClick = {
-                            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.jobiest.ai/about"))
+                            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://jobiest.com/help"))
                             context.startActivity(intent)
                         }
                     )

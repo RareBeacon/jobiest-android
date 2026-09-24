@@ -21,7 +21,7 @@ android {
         }
 
         // Base API configuration (Safe public URLs only, zero secrets)
-        buildConfigField("String", "JOBIEST_API_BASE_URL", "\"https://www.jobiest.ai/api/\"")
+        buildConfigField("String", "JOBIEST_API_BASE_URL", "\"https://jobiest.com/api/\"")
         buildConfigField("String", "SUPABASE_AUTH_URL", "\"https://cbxloutahmalorumaihc.supabase.co/auth/v1/\"")
         buildConfigField("String", "SUPABASE_ANON_KEY", "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNieGxvdXRhaG1hbG9ydW1haWhjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg4NzI4NDAsImV4cCI6MjEwNDQ0ODg0MH0.GP3wwoQMy1T0B6kop2Z9otN_iaZ7ntly2qNsqNWm5rg\"")
     }
