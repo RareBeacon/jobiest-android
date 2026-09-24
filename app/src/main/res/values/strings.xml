@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jobiest</string>
+    <string name="tagline">Your AI Career Agent</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="signup_title">Create Account</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="jobs_title">Find Jobs</string>
+    <string name="saved_jobs_title">Saved Jobs</string>
+    <string name="applications_title">Applications</string>
+    <string name="career_tools_title">Career Tools</string>
+    <string name="profile_title">Profile</string>
+    <string name="billing_title">Subscription</string>
+    <string name="ats_scanner_title">ATS Scanner</string>
+    <string name="resume_studio_title">Resume Studio</string>
+</resources>

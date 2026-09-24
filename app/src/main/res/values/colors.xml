@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jobiest_navy">#0A192F</color>
+    <color name="jobiest_navy_light">#112240</color>
+    <color name="jobiest_navy_dark">#070D18</color>
+    <color name="jobiest_gold">#F59E0B</color>
+    <color name="jobiest_gold_dark">#D97706</color>
+    <color name="jobiest_blue">#38BDF8</color>
+    <color name="jobiest_green">#10B981</color>
+    <color name="jobiest_red">#EF4444</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="card_background">#162846</color>
+    <color name="border_color">#233554</color>
+</resources>
