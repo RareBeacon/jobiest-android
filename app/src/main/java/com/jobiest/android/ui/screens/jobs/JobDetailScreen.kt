@@ -59,7 +59,7 @@ fun JobDetailScreen(
                         val shareIntent = Intent(Intent.ACTION_SEND).apply {
                             type = "text/plain"
                             putExtra(Intent.EXTRA_SUBJECT, "${job.title} at ${job.company}")
-                            putExtra(Intent.EXTRA_TEXT, "Check out this role on Jobiest: ${job.title} at ${job.company}\n${job.url ?: "https://jobiest.com"}")
+                            putExtra(Intent.EXTRA_TEXT, "Check out this role on Jobiest: ${job.title} at ${job.company}\n${job.url ?: "https://www.jobiest.ai"}")
                         }
                         context.startActivity(Intent.createChooser(shareIntent, "Share Job"))
                     }) {

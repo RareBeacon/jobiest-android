@@ -30,7 +30,7 @@ class BillingRepository(
             val req = CreatePaymentRequest(
                 plan = plan,
                 provider = provider,
-                redirectUrl = "https://jobiest.com/billing/success"
+                redirectUrl = "https://www.jobiest.ai/billing/success"
             )
             val response = if (provider == "paystack") {
                 apiService.createPaystackPayment(req)

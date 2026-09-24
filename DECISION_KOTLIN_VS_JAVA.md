@@ -3,7 +3,7 @@
 ## Context
 Jobiest is a multi-sided AI career platform designed to help job seekers find, target, tailor documents for, and track applications across global job boards (Greenhouse, Lever, Ashby, Workable, SmartRecruiters) and automated browser submissions.
 
-The requirement is to create a genuine, production-grade native Android client communicating with the existing Jobiest backend at `https://jobiest.com/api/` and Supabase Auth.
+The requirement is to create a genuine, production-grade native Android client communicating with the existing Jobiest backend at `https://www.jobiest.ai/api/` and Supabase Auth.
 
 ## Evaluated Options
 1. **Java + Traditional XML Layouts**
