@@ -1,2 +1,1 @@
-# jobiest-android
-Official Jobiest Native Android Application (Kotlin, Jetpack Compose, Material 3, Production Push Notifications, Keystore AES-256-GCM Vault)
+"# jobiest-android\n\nOfficial Jobiest Native Android Application (Kotlin, Jetpack Compose, Material 3, Production Push Notifications, Keystore AES-256-GCM Vault)\n\n**Product:** [jobiest.com](https://jobiest.com) - Your AI career agent. Only sends applications you approve.\n**Free tools:** [ATS resume scanner](https://jobiest.com/free-ats-resume-scanner), [salary insights](https://jobiest.com/free-salary-insights), [all 10 free career tools](https://jobiest.com/tools)\n**How it works:** [jobiest.com/how-it-works](https://jobiest.com/how-it-works)\n"
